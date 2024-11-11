@@ -1,0 +1,19 @@
+---
+title: "Léo Delalandre"
+image: docs/img/photo_2.jpg
+about:
+  template: trestles
+  id: hero-heading
+  links:
+    - icon: mailbox
+      text: Mail
+      href: mailto:leo.delalandre@protonmail.com
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=s4Le9SQAAAAJ
+    - icon: github
+      text: Github
+      href: https://github.com/LDelalandre
+---
+
+Trained in ecology and evolution, my research interests encompass plant-plant interactions, comparative ecology. I have recently

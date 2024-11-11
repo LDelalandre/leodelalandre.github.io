@@ -1,0 +1,15 @@
+---
+title: "Publications"
+---
+
+**Delalandre, L.**, Violle, C., Coq, S., & Garnier, E. (2023). Trait–environment relationships depend on species life history. Journal of Vegetation Science, 34(6), e13211. <https://doi.org/10.1111/jvs.13211>
+
+Gaüzère, P., Blonder, B., Denelle, P., Fournier, B., Grenié, M., **Delalandre, L.**, Münkemüller, T., Munoz, F., Violle, C., & Thuiller, W. (2023). The functional trait distinctiveness of plant species is scale dependent. Ecography, n/a(n/a), e06504. <https://doi.org/10.1111/ecog.06504>
+
+Munoz, F., Klausmeier, C. A., Gaüzère, P., Kandlikar, G., Litchman, E., Mouquet, N., Ostling, A., Thuiller, W., Algar, A. C., Auber, A., Cadotte, M. W., **Delalandre, L.**, Denelle, P., Enquist, B. J., Fortunel, C., Grenié, M., Loiseau, N., Mahaut, L., Maire, A., … Kraft, N. J. B. (2023). The ecological causes of functional distinctiveness in communities. Ecology Letters, n/a(n/a). <https://doi.org/10.1111/ele.14265>
+
+Verdú, M., Garrido, J. L., Alcántara, J. M., Montesinos-Navarro, A., Aguilar, S., Aizen, M. A., Al-Namazi, A. A., Alifriqui, M., Allen, D., Anderson-Teixeira, K. J., Armas, C., Bastida, J. M., Bellido, T., Bonanomi, G., Paterno, G. B., Briceño, H., de Oliveira, R. A. C., Campoy, J. G., Chaieb, G., … Zamora, R. (2023). RecruitNet: A global database of plant recruitment networks. Ecology, n/a(n/a), e3923. <https://doi.org/10.1002/ecy.3923>
+
+**Delalandre, L.**, Gaüzère, P., Thuiller, W., Cadotte, M., Mouquet, N., Mouillot, D., Munoz, F., Denelle, P., Loiseau, N., Morin, X., & Violle, C. (2022). Functionally distinct tree species support long-term productivity in extreme environments. Proceedings of the Royal Society B: Biological Sciences, 289(1967), 20211694. <https://doi.org/10.1098/rspb.2021.1694>
+
+**Delalandre, L.**, & Montesinos-Navarro, A. (2018). Can co-occurrence networks predict plant-plant interactions in a semi-arid gypsum community? Perspectives in Plant Ecology, Evolution and Systematics, 31, 36–43. <https://doi.org/10.1016/j.ppees.2018.01.001>

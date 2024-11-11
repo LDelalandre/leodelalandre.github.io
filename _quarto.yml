@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Léo Delalandre"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+      - publications.qmd
+      - about.qmd
+  page-footer:
+    left: "Copyright 2024, Léo Delalandre"
+    right:
+      - icon: github
+        href: https://github.com/LDelalandre
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+
