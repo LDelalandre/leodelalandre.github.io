@@ -1,6 +1,6 @@
 ---
 title: "Léo Delalandre"
-image: docs/img/photo_2.jpg
+image: documentation/pictures/Delalandre.jpg
 about:
   template: trestles
   id: hero-heading
@@ -17,11 +17,3 @@ about:
 ---
 
 Trained in ecology and evolution, I've been working on plant comparative ecology during my Ph.D. More recently, I have been trying to apply comparative approaches to long-term trends in human social organization, within the cultural evolution framework.
-
-During my Ph.D., I studied how functional traits (i.e., features of organisms related to their function and their fitness in a given environment) varied with the environment at different levels of organisation: within species (plastic and genetic variation), across species, and across groups of species differing in their life history. The overall aim was to better predict plant distribution, and plant effects on ecosystem processes, based on their trait values.
-
-Sharing data so that they can be easily found, accessed, and reused, is a key aspect of comparative analyses.
-
-Comparative analyses often using multiple datasets.
-
-I've developed a strong interest for evolutionary approaches to human culture.
