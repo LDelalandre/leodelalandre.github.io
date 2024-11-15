@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ph.D. Trait-environment relationships in plants: from organism life cycle to data life cycle. https://ephe.hal.science/tel-04589391/\nDelalandre, L., Violle, C., Coq, S., & Garnier, E. (2023). Trait–environment relationships depend on species life history. Journal of Vegetation Science, 34(6), e13211. https://doi.org/10.1111/jvs.13211\nGaüzère, P., Blonder, B., Denelle, P., Fournier, B., Grenié, M., Delalandre, L., Münkemüller, T., Munoz, F., Violle, C., & Thuiller, W. (2023). The functional trait distinctiveness of plant species is scale dependent. Ecography, n/a(n/a), e06504. https://doi.org/10.1111/ecog.06504\nMunoz, F., Klausmeier, C. A., Gaüzère, P., Kandlikar, G., Litchman, E., Mouquet, N., Ostling, A., Thuiller, W., Algar, A. C., Auber, A., Cadotte, M. W., Delalandre, L., Denelle, P., Enquist, B. J., Fortunel, C., Grenié, M., Loiseau, N., Mahaut, L., Maire, A., … Kraft, N. J. B. (2023). The ecological causes of functional distinctiveness in communities. Ecology Letters, n/a(n/a). https://doi.org/10.1111/ele.14265\nVerdú, M., Garrido, J. L., Alcántara, J. M., Montesinos-Navarro, A., Aguilar, S., Aizen, M. A., Al-Namazi, A. A., Alifriqui, M., Allen, D., Anderson-Teixeira, K. J., Armas, C., Bastida, J. M., Bellido, T., Bonanomi, G., Paterno, G. B., Briceño, H., de Oliveira, R. A. C., Campoy, J. G., Chaieb, G., … Zamora, R. (2023). RecruitNet: A global database of plant recruitment networks. Ecology, n/a(n/a), e3923. https://doi.org/10.1002/ecy.3923\nDelalandre, L., Gaüzère, P., Thuiller, W., Cadotte, M., Mouquet, N., Mouillot, D., Munoz, F., Denelle, P., Loiseau, N., Morin, X., & Violle, C. (2022). Functionally distinct tree species support long-term productivity in extreme environments. Proceedings of the Royal Society B: Biological Sciences, 289(1967), 20211694. https://doi.org/10.1098/rspb.2021.1694\nDelalandre, L., & Montesinos-Navarro, A. (2018). Can co-occurrence networks predict plant-plant interactions in a semi-arid gypsum community? Perspectives in Plant Ecology, Evolution and Systematics, 31, 36–43. https://doi.org/10.1016/j.ppees.2018.01.001"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Léo Delalandre",
+    "section": "",
+    "text": "Trained in ecology and evolution, I’ve been working on plant comparative ecology during my Ph.D. More recently, I have been trying to apply comparative approaches to long-term trends in human social organization, within the cultural evolution framework."
+  },
+  {
+    "objectID": "projects.html#how-do-plant-traits-vary-with-the-environment-at-different-organizational-scales",
+    "href": "projects.html#how-do-plant-traits-vary-with-the-environment-at-different-organizational-scales",
+    "title": "Research projects",
+    "section": "2.1 How do plant traits vary with the environment at different organizational scales?",
+    "text": "2.1 How do plant traits vary with the environment at different organizational scales?\nPlant functional traits, i.e., features of the organisms related to their functions and their performance, are expected to vary predictably with the environment. During my Ph.D., I investigated how considering different levels of trait variation (within species, among species, and among groups of species differing in their life history) affected trait-environment mapping.\n\nDelalandre, L., Violle, C., Coq, S., & Garnier, E. (2023). Trait–environment relationships depend on species life history. Journal of Vegetation Science, 34(6), e13211. https://doi.org/10.1111/jvs.13211\nDelalandre, L. Trait-environment relationships in plants: from organism life cycle to data life cycle. Ph.D. https://ephe.hal.science/tel-04589391/"
+  },
+  {
+    "objectID": "projects.html#can-we-define-a-set-of-easy-to-implement-good-practices-to-share-plant-trait-data",
+    "href": "projects.html#can-we-define-a-set-of-easy-to-implement-good-practices-to-share-plant-trait-data",
+    "title": "Research projects",
+    "section": "2.2 Can we define a set of (easy-to-implement) good practices to share plant trait data?",
+    "text": "2.2 Can we define a set of (easy-to-implement) good practices to share plant trait data?\nAlthough incentive and recommendations for sharing biodiversity datasets are numerous (Open Science principles, FAIR principles, etc.), the diversity and heterogeneity of standards and repositories makes it difficult for research teams to share their complete sets of trait data in practice. We structured heterogeneous trait (and environment-related) datasets in a trait database (currently under review), and are trying to use it as a case study to provide practical guidelines to ease trait datasets sharing for research teams."
+  },
+  {
+    "objectID": "projects.html#what-are-the-effects-of-original-species-on-ecosystem-processes",
+    "href": "projects.html#what-are-the-effects-of-original-species-on-ecosystem-processes",
+    "title": "Research projects",
+    "section": "2.3 What are the effects of original species on ecosystem processes?",
+    "text": "2.3 What are the effects of original species on ecosystem processes?\nIn collaboration with the FREE consortium, working on functional rarity in ecology and evolution, I investigated whether, an under which conditions, species showing original phenotypes are key to ecosystem functioning (e.g., ecosystem productivity, temporal stability, etc.).\n\nGaüzère, P., Blonder, B., Denelle, P., Fournier, B., Grenié, M., Delalandre, L., Münkemüller, T., Munoz, F., Violle, C., & Thuiller, W. (2023). The functional trait distinctiveness of plant species is scale dependent. Ecography, n/a(n/a), e06504. https://doi.org/10.1111/ecog.06504\nMunoz, F., Klausmeier, C. A., Gaüzère, P., Kandlikar, G., Litchman, E., Mouquet, N., Ostling, A., Thuiller, W., Algar, A. C., Auber, A., Cadotte, M. W., Delalandre, L., Denelle, P., Enquist, B. J., Fortunel, C., Grenié, M., Loiseau, N., Mahaut, L., Maire, A., … Kraft, N. J. B. (2023). The ecological causes of functional distinctiveness in communities. Ecology Letters, n/a(n/a). https://doi.org/10.1111/ele.14265\nDelalandre, L., Gaüzère, P., Thuiller, W., Cadotte, M., Mouquet, N., Mouillot, D., Munoz, F., Denelle, P., Loiseau, N., Morin, X., & Violle, C. (2022). Functionally distinct tree species support long-term productivity in extreme environments. Proceedings of the Royal Society B: Biological Sciences, 289(1967), 20211694. https://doi.org/10.1098/rspb.2021.1694"
+  },
+  {
+    "objectID": "projects.html#how-to-infer-plant-positive-interactions-from-co-occurrence-patterns",
+    "href": "projects.html#how-to-infer-plant-positive-interactions-from-co-occurrence-patterns",
+    "title": "Research projects",
+    "section": "2.4 How to infer plant positive interactions from co-occurrence patterns?",
+    "text": "2.4 How to infer plant positive interactions from co-occurrence patterns?\nIn collaboration with Alicia Montesinos-Navarro and Miguel Verdú, I investigated whether plant co-occurrence patterns can reveal facilitation in the recruitment of seedlings from nurse species. We then worked on assembling multiple datasets of co-occurrence patterns in a worldwide database in order to foster large-scale comparative analyses of plant recruitment networks.\n\nVerdú, M., Garrido, J. L., Alcántara, J. M., Montesinos-Navarro, A., Aguilar, S., Aizen, M. A., Al-Namazi, A. A., Alifriqui, M., Allen, D., Anderson-Teixeira, K. J., Armas, C., Bastida, J. M., Bellido, T., Bonanomi, G., Paterno, G. B., Briceño, H., de Oliveira, R. A. C., Campoy, J. G., Chaieb, G., … Zamora, R. (2023). RecruitNet: A global database of plant recruitment networks. Ecology, n/a(n/a), e3923. https://doi.org/10.1002/ecy.3923\nDelalandre, L., & Montesinos-Navarro, A. (2018). Can co-occurrence networks predict plant-plant interactions in a semi-arid gypsum community? Perspectives in Plant Ecology, Evolution and Systematics, 31, 36–43. https://doi.org/10.1016/j.ppees.2018.01.001"
+  }
+]
