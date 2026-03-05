@@ -2,7 +2,13 @@
 title: "Publications"
 ---
 
-Ph.D. Trait-environment relationships in plants: from organism life cycle to data life cycle. <https://ephe.hal.science/tel-04589391/>
+**Delalandre, L.**, Violle, C., Fort, F., Tschambser, J., Saugier, L., Fourtier, G., & Garnier, E. (2025). Plant response to nutrients differs among traits and depends on species’ nutrient requirements. *Annals of Botany*, mcaf171. <https://doi.org/10.1093/aob/mcaf171>
+
+Garnier, É., **Delalandre, L.**, Segrestin, J., Barkaoui, K., Kazakou, E., Navas, M.-L., Vile, D., Violle, C., Bernard-Verdier, M., Birouste, M., Blanchard, A., Bumb, I., Cruz, P., Debain, S., Fayolle, A., Fortunel, C., Grigulis, K., Laurent, G., Lavorel, S., … Roumet, C. (2025). FAIRTraits: An enriched, FAIR-compliant database of plant traits from Mediterranean populations of 240 species. *Ecology*, *106*(9), e70219. <https://doi.org/10.1002/ecy.70219>
+
+Alcántara, J. M., Verdú, M., Garrido, J. L., Montesinos-Navarro, A., Aizen, M. A., Alifriqui, M., Allen, D., Al-Namazi, A. A., Armas, C., Bastida, J. M., Bellido, T., Paterno, G. B., Briceño, H., Camargo de Oliveira, R. A., Campoy, J. G., Chaieb, G., Chu, C., Constantinou, E., **Delalandre, L.**, … Zamora, R. (2025). Key concepts and a world-wide look at plant recruitment networks. *Biological Reviews*, *100*(3), 1127–1151. <https://doi.org/10.1111/brv.13177>
+
+Ph.D. Trait-environment relationships in plants: from organism life cycle to data life cycle (in French): <https://ephe.hal.science/tel-04589391/>
 
 **Delalandre, L.**, Violle, C., Coq, S., & Garnier, E. (2023). Trait–environment relationships depend on species life history. Journal of Vegetation Science, 34(6), e13211. <https://doi.org/10.1111/jvs.13211>
 
