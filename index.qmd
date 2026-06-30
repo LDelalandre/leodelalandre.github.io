@@ -1,6 +1,6 @@
 ---
 title: "Léo Delalandre"
-image: docs/documentation/pictures/Delalandre.jpg
+image: documentation/pictures/Delalandre.jpg
 about:
   template: trestles
   id: hero-heading
