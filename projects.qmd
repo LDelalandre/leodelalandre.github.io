@@ -4,11 +4,11 @@ title: "Research projects"
 
 # 1. Comparative approaches to human culture
 
-Although all ecological systems are historical, Human's specific cumulative culture gives rise to rich historical dynamics, characterized by changes in human group size and complexity, as well as innovations regarding artefacts, institutions and norms. Comparative approaches have been developed to describe these changes and test hypotheses about the drivers of historical dynamics. Some questions I would love to investigate:
+Human's cumulative culture gives rise to rich historical dynamics, characterized by variations in institutions, norms, social organization, as well as technologies. Despite history being to a large extent idiosyncratic, comparative approaches have proposed hypotheses for broad historical patterns. Multiple theories have been proposed to explain the increase in gender inequalities with agriculture, sedentarization, and the development of large, centralized states. I am trying to test some of these hypotheses using anthropological and historical data, and modeling techniques.
 
--   Historical data in Europe from the 1500's have shown that values related to authority and hierarchy have remained geographically stable until recently, despite the Industrial Revolution, and subsequent societal changes. In addition, they appear as good predictors of vote during the XXth century. What are the cultural pathways by which these values are transmitted? How can they influence norms and institutions?
+I'm additionally sharing my research and broader reflections on a blog, [Making our Nature](https://leodelalandre.substack.com/), where I try to keep posting every two weeks.
 
--   Human societies have known a dramatic increase in size since the Agricultural Revolution, associated with power centralization and increased levels of hierarchy. This suggests that hierarchy is necessary for large-scale societies to hold. However, the governance of complex societies has also been described as "polycentric", with multiples centres of powers - which, under certain circumstances, can evolve bottom-up solutions to problems. To what extent can the degree of authoritarianism of large-scales societies vary? Does it affect the cohesiveness (or asabiya) of these societies?
+
 
 # 2. Plant comparative ecology
 
@@ -16,13 +16,18 @@ Although all ecological systems are historical, Human's specific cumulative cult
 
 Plant functional traits, i.e., features of the organisms related to their functions and their performance, are expected to vary predictably with the environment. During my Ph.D., I investigated how considering different levels of trait variation (within species, among species, and among groups of species differing in their life history) affected trait-environment mapping.
 
+> **Delalandre, L.**, Violle, C., Fort, F., Tschambser, J., Saugier, L., Fourtier, G., & Garnier, E. (2025). Plant response to nutrients differs among traits and depends on species’ nutrient requirements. *Annals of Botany*, mcaf171. <https://doi.org/10.1093/aob/mcaf171>
+
 > **Delalandre, L.**, Violle, C., Coq, S., & Garnier, E. (2023). Trait–environment relationships depend on species life history. Journal of Vegetation Science, 34(6), e13211. <https://doi.org/10.1111/jvs.13211>
->
+
 > **Delalandre, L.** Trait-environment relationships in plants: from organism life cycle to data life cycle. Ph.D. <https://ephe.hal.science/tel-04589391/>
 
 ## 2.2 Can we define a set of (easy-to-implement) good practices to share plant trait data?
 
 Although incentive and recommendations for sharing biodiversity datasets are numerous (Open Science principles, FAIR principles, etc.), the diversity and heterogeneity of standards and repositories makes it difficult for research teams to share their complete sets of trait data in practice. We structured heterogeneous trait (and environment-related) datasets in a trait database (currently under review), and are trying to use it as a case study to provide practical guidelines to ease trait datasets sharing for research teams.
+
+> Garnier, É., **Delalandre, L.**, Segrestin, J., Barkaoui, K., Kazakou, E., Navas, M.-L., Vile, D., Violle, C., Bernard-Verdier, M., Birouste, M., Blanchard, A., Bumb, I., Cruz, P., Debain, S., Fayolle, A., Fortunel, C., Grigulis, K., Laurent, G., Lavorel, S., … Roumet, C. (2025). FAIRTraits: An enriched, FAIR-compliant database of plant traits from Mediterranean populations of 240 species. *Ecology*, *106*(9), e70219. <https://doi.org/10.1002/ecy.70219>
+
 
 ## 2.3 What are the effects of original species on ecosystem processes?
 
@@ -38,10 +43,10 @@ In collaboration with the [FREE consortium](https://www.fondationbiodiversite.fr
 
 In collaboration with Alicia Montesinos-Navarro and Miguel Verdú, I investigated whether plant co-occurrence patterns can reveal facilitation in the recruitment of seedlings from nurse species. We then worked on assembling multiple datasets of co-occurrence patterns in a worldwide database in order to foster large-scale comparative analyses of plant recruitment networks.
 
+> Alcántara, J. M., Verdú, M., Garrido, J. L., Montesinos-Navarro, A., Aizen, M. A., Alifriqui, M., Allen, D., Al-Namazi, A. A., Armas, C., Bastida, J. M., Bellido, T., Paterno, G. B., Briceño, H., Camargo de Oliveira, R. A., Campoy, J. G., Chaieb, G., Chu, C., Constantinou, E., **Delalandre, L.**, … Zamora, R. (2025). Key concepts and a world-wide look at plant recruitment networks. *Biological Reviews*, *100*(3), 1127–1151. <https://doi.org/10.1111/brv.13177>
+
 > Verdú, M., Garrido, J. L., Alcántara, J. M., Montesinos-Navarro, A., Aguilar, S., Aizen, M. A., Al-Namazi, A. A., Alifriqui, M., Allen, D., Anderson-Teixeira, K. J., Armas, C., Bastida, J. M., Bellido, T., Bonanomi, G., Paterno, G. B., Briceño, H., de Oliveira, R. A. C., Campoy, J. G., Chaieb, G., … Zamora, R. (2023). RecruitNet: A global database of plant recruitment networks. Ecology, n/a(n/a), e3923. <https://doi.org/10.1002/ecy.3923>
 >
 > **Delalandre, L.**, & Montesinos-Navarro, A. (2018). Can co-occurrence networks predict plant-plant interactions in a semi-arid gypsum community? Perspectives in Plant Ecology, Evolution and Systematics, 31, 36–43. <https://doi.org/10.1016/j.ppees.2018.01.001>
 
-## 
 
-# 

@@ -14,6 +14,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/LDelalandre
+    - icon: journal-text
+      text: Blog
+      href: https://leodelalandre.substack.com/ 
 ---
 
-Trained in ecology and evolution, I've been working on plant comparative ecology during my Ph.D. More recently, I have been trying to apply comparative approaches to long-term trends in human social organization, within the cultural evolution framework.
+Trained in ecology and evolution, I worked in plant comparative ecology during my Ph.D. More recently, I have been trying to apply comparative approaches to long-term trends in human social organization, within the cultural evolution framework. Currently at the [Complexity Science Hub](https://csh.ac.at/leo-delalandre/) in Vienna, Austria, I study how gender inequalities have changed during the Holocene, i.e., since the advent of agriculture and the dramatic increase in the size and hierarchy of societies. I use a mix of modelling and data analyses, relying on archaeological and historical data – and most of all on the collaboration with specialists of these disciplines.
