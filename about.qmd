@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-[Download CV](documentation/pictures/Academic_CV_XX.pdf){download="Academic_CV_Léo_Delalandre.pdf"}
+[Download CV](docs/documentation/pictures/Academic_CV_XX.pdf){download="Academic_CV_Léo_Delalandre.pdf"}
 
-<iframe src="documentation/pictures/Academic_CV_Léo_Delalandre.pdf" width="100%" height="800px" style="border:none;"></iframe>
+<iframe src="docs/documentation/pictures/Academic_CV_Léo_Delalandre.pdf" width="100%" height="800px" style="border:none;"></iframe>
 
